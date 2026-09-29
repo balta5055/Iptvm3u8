@@ -1,1 +1,6 @@
-# Iptvm3u8
+#EXTM3U
+
+EXTINF:-1 tvg-name="Caracol TV" group-title="Nacionales Colombia 🇨🇴",Caracol TV
+http://209.14.98.47:8000/play/CanalCaracol/index.m3u8?hls
+#EXTINF:-1 tvg-name="RCN" group-title="Nacionales Colombia 🇨🇴",Canal RCN
+http://190.61.42.218:9000/play/a0a2/index.m3u8
