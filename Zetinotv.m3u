@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Caracol TV" group-title="Colombia" tvg-logo=https://caracoltv.brightspotcdn.com/dims4/default/b3de358/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F52%2F87%2F5bbe5cad4714af5b056bf9b7f16c%2Fctv-bk.jpg,CARACOL TV
+#EXTINF:-1 tvg-name="Caracol TV" group-title="Colombia" tvg-logo=https://pbs.twimg.com/profile_images/1382344075232296960/d9GJ3No3_400x400.jpg,Caracol TV
 http://209.14.98.47:8000/play/CanalCaracol/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="RCN" group-title="Colombia" tvg-logo=https://unity-img.tbxapis.com/v0/images/801ca66694329da3ba697f38c94bf0a1/section/67111a1f41e52c74afb26704/bf7dedcf40b5f59eb7849f4be615e56b/img.jpg,Canal RCN
