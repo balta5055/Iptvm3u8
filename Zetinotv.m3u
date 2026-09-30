@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Caracol TV" group-title="Nacionales Colombia 🇨🇴" tvg-logo=https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp,Caracol TV
+#EXTINF:-1 tvg-name="Caracol TV" group-title="Colombia 🇨🇴" tvg-logo=https://caracoltv.brightspotcdn.com/dims4/default/b3de358/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F52%2F87%2F5bbe5cad4714af5b056bf9b7f16c%2Fctv-bk.jpg
 http://209.14.98.47:8000/play/CanalCaracol/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="RCN" group-title="Nacionales Colombia 🇨🇴",Canal RCN
+#EXTINF:-1 tvg-name="RCN" group-title="Colombia 🇨🇴",Canal RCN
 http://190.61.42.218:9000/play/a0a2/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" group-title="⚽ DEPORTES" tvg-logo=
+http://209.14.98.47:8000/play/a0x6/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="ESPN 3" group-title="⚽ DEPORTES" tvg-logo= 
+http://181.224.200.5:2277/play/a02g/index.m3u8
