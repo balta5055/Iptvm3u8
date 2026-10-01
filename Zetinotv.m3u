@@ -12,7 +12,7 @@ http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47105.ts
 #EXTINF:-1 group-title=DEPORTES tvg-logo=https://i.pinimg.com/736x/06/8f/e4/068fe4ec6df8e57eb5e7934b915c4aa0.jpg,Disney+
 
 
-#EXTINF:-1 group-title=DEPORTES tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2026/03/td_header_logo_final.png", Telemundo Deportes
+#EXTINF:-1 tvg-name="TELEMUNDO DEPORTES" group-title=DEPORTES tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2026/03/td_header_logo_final.png", Telemundo Deportes
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_
 
 
@@ -22,7 +22,7 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 group-title=DEPORTES tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",Espn
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 
-#EXTINF:-1 group-title=DEPORTES tvg-logo="https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/vix/logo/vix_white_square_18_10_23@3x.png,",VIX LLIGA
+#EXTINF:-1 group-title=DEPORTES tvg-logo="https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/vix/logo/vix_white_square_18_10_23@3x.png",VIX LLIGA
 http://38.188.186.47:4000/play/a015/index.m3u
 
 
