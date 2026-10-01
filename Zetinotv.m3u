@@ -76,7 +76,7 @@ http://209.14.98.47:8000/play/a0x5/index.m3u8?hls
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEBnXre1LmMjJdK739a7jIdw7najRBvLZUgS5WiEgrtwgSopEStJIKO0L3iXTrhnOvLMHRWJrgi2OS_z4R2sPi3Frk8_saEfan6Ds_MMlvh4XDUQUBhYPuBlbF1w9NtF8090eKQmangyvq-8FqKylJYTLDhnbbbiS5qSLoErh_C3Mjiy9JfEN7z35d/s1000/win%20logo.png",win Sports 
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp',Win Sports+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp",Win Sports+
 http://190.61.42.218:9000/play/a01s/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo=https://r2.thesportsdb.com/images/media/channel/logo/Universo.png,Universo 
@@ -172,7 +172,7 @@ https://ia601400.us.archive.org/5/items/shrek-tercero-2007/Shrek%2C%20felices%20
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://lieve.co/wp-content/uploads/2023/05/super_mario_bros_movie_poster.jpg",Super Mario Bros La Película 
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4
 
-#EXTINF:-1 group-title="PELÍCULAS" tvg-logo=https://www.dodmagazine.es/wp-content/uploads/2019/06/banda-sonora-rey-leon-2019.jpg",Rey León 2019
+#EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://www.dodmagazine.es/wp-content/uploads/2019/06/banda-sonora-rey-leon-2019.jpg",Rey León 2019
 https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
 
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDViYTU5MDMtNjBjZC00OGIxLWI2MTItYzk5ZDgzYmY5YTQ3XkEyXkFqcGc@._V1_.jpg",Angry Birds La película 
