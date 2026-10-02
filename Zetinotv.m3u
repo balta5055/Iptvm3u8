@@ -88,7 +88,7 @@ http://190.61.42.218:9000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="🎞️ CANALES-CINEMA" tvg-logo="https://www.pngfind.com/pngs/m/287-2871635_cinecanal-logo-hd-png-download.png",Cinecanal
 http://190.61.42.218:9000/play/a06j/index.m3u8
 
-#EXTINF:-1 group-title="🎞️ CANALES-CINEMA" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/De-Pelicula-Plus-Logo.png",De Película 
+#EXTINF:-1 group-title="🎞️ CANALES-CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xt1-pue-ySjzPKJmze9PRD5WNbW0psI90WumZ558Lg&s=10",De Película 
 http://181.224.200.5:2277/play/a0d1/index.m3u8
 
 #EXTINF:-1 group-title="🎞️ CANALES-CINEMA" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",Paramount+
@@ -106,7 +106,7 @@ http://181.224.200.5:2277/play/a01j/index.m3u8
 #EXTINF:-1 group-title="🎞️ CANALES-CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Universal_Channel_2010_%28Blue%29.svg/revision/latest/scale-to-width-down/300?cb=20200924204226&path-prefix=es",Universal Channel 
 http://181.224.200.5:2277/play/a0ak/index.m3u8
 
-#EXTINF:-1 group-title="🎞️ CANALES-CINEMA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png",Hbo
+#EXTINF:-1 group-title="🎞️ CANALES-CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ3DPkghyovsTxKAGlZzSpolDU5OIaMI7ISCODgmad81RExrFUz0AU3s&s=10",Hbo
 http://190.61.42.218:9000/play/a049/index.m3u8
 
 #EXTINF:-1 group-title="🎞️ CANALES-CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png",Hbo pop
