@@ -1,88 +1,88 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",Espn 2
+#EXTINF:-1 tvg-name="ESPN 2" group-title="⚽ DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",Espn 2
 http://209.14.98.47:8000/play/a0x6/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_SGcpQWXrN4_DYAa7JgRCY3gl3DyNfWAWw&s",Espn 3
+#EXTINF:-1 tvg-name="ESPN 3" group-title="⚽DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_SGcpQWXrN4_DYAa7JgRCY3gl3DyNfWAWw&s",Espn 3
 http://181.224.200.5:2277/play/a02g/index.m3u8
 
-#EXTINF:-1 tvg-name="ESPN DEPORTES" group-title="DEPORTES" tvg-logo="https://a.espncdn.com/i/espn/espn_logos/espndeportes_white.png",Espn Deportes
+#EXTINF:-1 tvg-name="ESPN DEPORTES" group-title="⚽DEPORTES" tvg-logo="https://a.espncdn.com/i/espn/espn_logos/espndeportes_white.png",Espn Deportes
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47105.ts
 
-#EXTINF:-1 group-title=DEPORTES tvg-logo=https://i.pinimg.com/736x/06/8f/e4/068fe4ec6df8e57eb5e7934b915c4aa0.jpg,Disney+
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo=https://i.pinimg.com/736x/06/8f/e4/068fe4ec6df8e57eb5e7934b915c4aa0.jpg,Disney+
 
 
-#EXTINF:-1 tvg-name="TELEMUNDO DEPORTES" group-title="DEPORTES" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2026/03/td_header_logo_final.png", Telemundo Deportes
+#EXTINF:-1 tvg-name="TELEMUNDO DEPORTES" group-title="⚽ DEPORTES" tvg-logo="https://lasociedaddelcontenido.com/wp-content/uploads/2026/03/td_header_logo_final.png", Telemundo Deportes
 https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_
 
 
-#EXTINF:-1 group-title=DEPORTES tvg-logo=https://lasociedaddelcontenido.com/wp-content/uploads/2025/10/Imagen-2025-10-04T234154.096.jpg,Sky Sports Lliga
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo=https://lasociedaddelcontenido.com/wp-content/uploads/2025/10/Imagen-2025-10-04T234154.096.jpg,Sky Sports Lliga
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",Espn
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",Espn
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/vix/logo/vix_white_square_18_10_23@3x.png",VIX LLIGA
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/vix/logo/vix_white_square_18_10_23@3x.png",VIX LLIGA
 http://38.188.186.47:4000/play/a015/index.m3u
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/f/6c/f6c79c2a-4ffb-11e7-b6c1-e74276765bfe/593f7cce0f11f.image.jpg",Fox Centroamérica 
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/f/6c/f6c79c2a-4ffb-11e7-b6c1-e74276765bfe/593f7cce0f11f.image.jpg",Fox Centroamérica 
 http://190.61.114.186:8000/play/a04d/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png",Tyc Sports 
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png",Tyc Sports 
 http://190.61.42.218:9000/play/a047/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.pinimg.com/736x/97/d5/81/97d581566431fe83e4d8f390424b9987.jpg",Espn 2
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://i.pinimg.com/736x/97/d5/81/97d581566431fe83e4d8f390424b9987.jpg",Espn 2
 http://181.78.8.199:8000/play/a0b2/index.m3u
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",Dsports
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",Dsports
 http://190.117.20.37:8000/play/a08d/index.m3u
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
 
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
 
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/250px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LLIGA
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/250px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LLIGA
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/250px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LLIGA
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/250px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LLIGA
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/250px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LLIGA 
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/250px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",LLIGA 
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",Mls
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png",Mls
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo=https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Deportes-por-M_Blanco_RGB.jpg,MOVISTAR DEPORTES
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://aloudsports.com/assets/aloudlogofinal-Cn8tbBGq.png",Aloud Sports
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo=https://www.movistarplus.es/comunicacion/wp-content/uploads/2023/07/Deportes-por-M_Blanco_RGB.jpg,MOVISTAR DEPORTES
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",Tnt Sports Premium 
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://aloudsports.com/assets/aloudlogofinal-Cn8tbBGq.png",Aloud Sports
+
+
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",Tnt Sports Premium 
 http://209.14.98.47:8000/play/a0x5/index.m3u8?hls
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEBnXre1LmMjJdK739a7jIdw7najRBvLZUgS5WiEgrtwgSopEStJIKO0L3iXTrhnOvLMHRWJrgi2OS_z4R2sPi3Frk8_saEfan6Ds_MMlvh4XDUQUBhYPuBlbF1w9NtF8090eKQmangyvq-8FqKylJYTLDhnbbbiS5qSLoErh_C3Mjiy9JfEN7z35d/s1000/win%20logo.png",win Sports 
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEBnXre1LmMjJdK739a7jIdw7najRBvLZUgS5WiEgrtwgSopEStJIKO0L3iXTrhnOvLMHRWJrgi2OS_z4R2sPi3Frk8_saEfan6Ds_MMlvh4XDUQUBhYPuBlbF1w9NtF8090eKQmangyvq-8FqKylJYTLDhnbbbiS5qSLoErh_C3Mjiy9JfEN7z35d/s1000/win%20logo.png",win Sports 
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp",Win Sports+
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp",Win Sports+
 http://190.61.42.218:9000/play/a01s/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo=https://r2.thesportsdb.com/images/media/channel/logo/Universo.png,Universo 
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo=https://r2.thesportsdb.com/images/media/channel/logo/Universo.png,Universo 
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo=https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp,Tudn
+#EXTINF:-1 group-title="⚽ DEPORTES" tvg-logo=https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp,Tudn
 
 
 #EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://www.pngfind.com/pngs/m/287-2871635_cinecanal-logo-hd-png-download.png",Cinecanal
@@ -146,7 +146,7 @@ http://190.61.42.218:9000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="CANALES-MUSICALES" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/484/radio-la-kalle.dc00363f.jpg",La kalle 
 http://209.14.98.47:8000/play/a0x8/index.m3u8?hls
 
-#EXTINF:-1 group-title="CANALES/INFANTILES" tvg-logo=,Cartoonito
+#EXTINF:-1 group-title="CANALES/INFANTILES" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/cartoonito-logo-confetti_1000.jpg",Cartoonito
 http://190.61.42.218:9000/play/a05r/index.m3u8
 
 #EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo=,Multipremier
@@ -240,6 +240,7 @@ http://planettvweb.com:8091/movie/Pablo653/FPad2549d/123329.mkv
 
 #EXTINF:-1 group-title="PELÍCULAS" tvg-logo="https://sergimgrau.wordpress.com/wp-content/uploads/2016/03/indiana-jones-y-la-ultima-cruzada.jpg",Indiana Jones y la última cruzada 
 http://planettvweb.com:8091/movie/Pablo653/FPad2549d/123330.mkv
+
 #EXTINF:-1 group-title=PELÍCULAS tvg-logo="https://jorgecine1997.wordpress.com/wp-content/uploads/2020/11/mv5bzdiznzm5mdutzmi5mc00ngq5lwflnzetyze3odixndi3zmnhxkeyxkfqcgdeqxvynjq4ode4mzq40._v1_.jpg",Indiana Jones y el reino de la calavera de cristal 
 http://planettvweb.com:8091/movie/Pablo653/FPad2549d/123331.mkv
 
