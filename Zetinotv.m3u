@@ -100,7 +100,7 @@ http://181.224.200.5:2277/play/a01f/index.m3u8
 #EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://i.pinimg.com/736x/10/6a/3f/106a3f2386bcfd5a1571d3293b41d015.jpg",Star Channel
 http://190.61.42.218:9000/play/a07t/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://logos-world.net/wp-content/uploads/2021/11/Universal-Logo.png",Studio Universal 
+#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/sv_studio-universal_m.png",Studio Universal 
 http://181.224.200.5:2277/play/a01j/index.m3u8
 
 #EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Universal_Channel_2010_%28Blue%29.svg/revision/latest/scale-to-width-down/300?cb=20200924204226&path-prefix=es",Universal Channel 
@@ -118,7 +118,7 @@ http://190.61.42.218:9000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://i.pinimg.com/736x/1e/4e/d2/1e4ed239d59deb25d3e49edfaef9007d.jpg",Hbo Family
 http://190.61.42.218:9000/play/a02s/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://nihontv2026.github.io/nihontv/hbo%20extreme.webp,HBO Extreme 
+#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://nihontv2026.github.io/nihontv/hbo%20extreme.webp",HBO Extreme 
 http://190.61.42.218:9000/play/a00x/index.m3u8
 
 #EXTINF:-1 group-title="CANALES/INFANTILES" tvg-logo="https://i.pinimg.com/736x/e5/da/45/e5da4582b75aece512e4597166499e62.jpg", Disney jr
