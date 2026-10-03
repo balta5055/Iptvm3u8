@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",Espn 2
-http://209.14.98.47:8000/play/a0x6/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_SGcpQWXrN4_DYAa7JgRCY3gl3DyNfWAWw&s",Espn 3
 
@@ -32,7 +32,7 @@ http://190.61.114.186:8000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png",Tyc Sports 
 http://190.61.42.218:9000/play/a047/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.pinimg.com/736x/97/d5/81/97d581566431fe83e4d8f390424b9987.jpg",Espn 2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtaIXq-q7vAPOqcHTDjVwbhBCkVdMZQRaWVV15AR8_&s",Espn 2
 http://181.78.8.199:8000/play/a0b2/index.m3u
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",Dsports
