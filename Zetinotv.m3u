@@ -85,46 +85,46 @@ http://190.61.42.218:9000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo=https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp,Tudn
 
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://www.pngfind.com/pngs/m/287-2871635_cinecanal-logo-hd-png-download.png",Cinecanal
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://www.pngfind.com/pngs/m/287-2871635_cinecanal-logo-hd-png-download.png",Cinecanal
 http://190.61.42.218:9000/play/a06j/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xt1-pue-ySjzPKJmze9PRD5WNbW0psI90WumZ558Lg&s=10",De Película 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xt1-pue-ySjzPKJmze9PRD5WNbW0psI90WumZ558Lg&s=10",De Película 
 http://181.224.200.5:2277/play/a0d1/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",Paramount+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",Paramount+
 http://181.224.200.5:2277/play/a0df/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://i.pinimg.com/736x/e3/85/15/e385156dc19cdf7581c287be42927273.jpg",Sony Channel 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.pinimg.com/736x/e3/85/15/e385156dc19cdf7581c287be42927273.jpg",Sony Channel 
 http://181.224.200.5:2277/play/a01f/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://i.pinimg.com/736x/10/6a/3f/106a3f2386bcfd5a1571d3293b41d015.jpg",Star Channel
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.pinimg.com/736x/10/6a/3f/106a3f2386bcfd5a1571d3293b41d015.jpg",Star Channel
 http://190.61.42.218:9000/play/a07t/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/sv_studio-universal_m.png",Studio Universal 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/sv_studio-universal_m.png",Studio Universal 
 http://181.224.200.5:2277/play/a01j/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Universal_Channel_2010_%28Blue%29.svg/revision/latest/scale-to-width-down/300?cb=20200924204226&path-prefix=es",Universal Channel 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Universal_Channel_2010_%28Blue%29.svg/revision/latest/scale-to-width-down/300?cb=20200924204226&path-prefix=es",Universal Channel 
 http://181.224.200.5:2277/play/a0ak/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ3DPkghyovsTxKAGlZzSpolDU5OIaMI7ISCODgmad81RExrFUz0AU3s&s=10",Hbo
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZ3DPkghyovsTxKAGlZzSpolDU5OIaMI7ISCODgmad81RExrFUz0AU3s&s=10",Hbo
 http://190.61.42.218:9000/play/a049/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png",Hbo pop
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png",Hbo pop
 http://209.14.98.47:8000/play/a0x7/index.m3u8?hls
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp",Hbo 2
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp",Hbo 2
 http://190.61.42.218:9000/play/a00v/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://i.pinimg.com/736x/1e/4e/d2/1e4ed239d59deb25d3e49edfaef9007d.jpg",Hbo Family
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.pinimg.com/736x/1e/4e/d2/1e4ed239d59deb25d3e49edfaef9007d.jpg",Hbo Family
 http://190.61.42.218:9000/play/a02s/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://nihontv2026.github.io/nihontv/hbo%20extreme.webp",HBO Extreme 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://nihontv2026.github.io/nihontv/hbo%20extreme.webp",HBO Extreme 
 http://190.61.42.218:9000/play/a00x/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://i.pinimg.com/736x/e5/da/45/e5da4582b75aece512e4597166499e62.jpg", Disney jr
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.pinimg.com/736x/e5/da/45/e5da4582b75aece512e4597166499e62.jpg", Disney jr
 http://190.61.42.218:9000/play/a00z/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://i.pinimg.com/736x/7c/02/d9/7c02d981c41ce091d42e61f99a7a5c43.jpg", Nickelodeon 
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.pinimg.com/736x/7c/02/d9/7c02d981c41ce091d42e61f99a7a5c43.jpg", Nickelodeon 
 http://190.61.42.218:9000/play/a02n/index.m3u8
 
 #EXTINF:-1 group-title="24/7" tvg-logo="https://www.vhv.rs/dpng/d/555-5557137_bob-esponja-logo-png-download-bob-esponja-logo.png",Bob Esponja
@@ -137,22 +137,22 @@ https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
 
 
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/10/14111442/Disney-Channel.jpg",Disney Channel 
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/10/14111442/Disney-Channel.jpg",Disney Channel 
 http://181.224.200.5:2277/play/a014/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/TAPA-600X428-2021-05-08T152707.600.png",Warner Channel 
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/TAPA-600X428-2021-05-08T152707.600.png",Warner Channel 
 http://190.61.42.218:9000/play/a04d/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-MUSICALES" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/484/radio-la-kalle.dc00363f.jpg",La kalle 
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/484/radio-la-kalle.dc00363f.jpg",La kalle 
 http://209.14.98.47:8000/play/a0x8/index.m3u8?hls
 
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es",Cartoonito
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es",Cartoonito
 http://190.61.42.218:9000/play/a05r/index.m3u8
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo=,Multipremier
+#EXTINF:-1 group-title="CINEMA" tvg-logo=,Multipremier
 
 
-#EXTINF:-1 group-title="CANALES-CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI8Yqkl00Q44VhHQkSphU_Dg-0l756vRWa2ZAxUrJa4ChqgkyOMuowAY&s=10",Cinemax
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLI8Yqkl00Q44VhHQkSphU_Dg-0l756vRWa2ZAxUrJa4ChqgkyOMuowAY&s=10",Cinemax
 http://190.61.42.218:9000/play/a01q/index.m3u8
 
 ############### peliculas ##########
