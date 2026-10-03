@@ -115,7 +115,7 @@ http://209.14.98.47:8000/play/a0x7/index.m3u8?hls
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp",Hbo 2
 http://190.61.42.218:9000/play/a00v/index.m3u8
 
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png",Hbo Family
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRlYTNkYzEtN2VjMi00MTFmLTg0MzktNGFhYjA1M2ExNGU3XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,500,281_.jpg",Hbo Family
 http://190.61.42.218:9000/play/a02s/index.m3u8
 
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://nihontv2026.github.io/nihontv/hbo%20extreme.webp",HBO Extreme 
