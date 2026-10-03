@@ -127,7 +127,7 @@ http://190.61.42.218:9000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/3840px-Nickelodeon_2023_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail", Nickelodeon 
 http://190.61.42.218:9000/play/a02n/index.m3u8
 
-#EXTINF:-1 group-title="24/7" tvg-logo="https://www.vhv.rs/dpng/d/555-5557137_bob-esponja-logo-png-download-bob-esponja-logo.png",Bob Esponja
+#EXTINF:-1 group-title="24/7" tvg-logo="https://i.pinimg.com/736x/29/a2/c6/29a2c6b2679c4c91408a8d9591574c30.jpg",Bob Esponja
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8 
 
 #EXTINF:-1 group-title="24/7" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/Rugrats-Logo.png",Los Rugrats 
