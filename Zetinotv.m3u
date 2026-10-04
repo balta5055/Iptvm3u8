@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1 tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_SGcpQWXrN4_DYAa7JgRCY3gl3DyNfWAWw&s",Espn 3
-
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://yt3.googleusercontent.com/oMaGDWPFdZyJbCdBkA1aR5sW6L61SEPAVh2OOYbTz5bFYlG2fDytw_MkLSfq6Ey7pp5wdZKE=s900-c-k-c0x00ffffff-no-rj",Fox sports 
+http://38.188.186.47:4000/play/a00h/index.m3u
 
 #EXTINF:-1 tvg-name="ESPN DEPORTES" group-title="DEPORTES" tvg-logo="https://a.espncdn.com/i/espn/espn_logos/espndeportes_white.png",Espn Deportes
 http://kstv.us:8080/live/FuRyR1yH1d/1449188108/47105.ts
@@ -22,7 +22,7 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_ch
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://http2.mlstatic.com/resources/frontend/statics/loyal/partners/vix/logo/vix_white_square_18_10_23@3x.png",VIX LLIGA
-
+http://38.188.186.47:4000/play/a015/index.m3u
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/f/6c/f6c79c2a-4ffb-11e7-b6c1-e74276765bfe/593f7cce0f11f.image.jpg",Fox Centroamérica 
@@ -38,7 +38,7 @@ http://190.61.42.218:9000/play/a047/index.m3u8
 http://181.78.8.199:8000/play/a0b2/index.m3u
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkgu66UiRPyPOEbQNrlxjkD74COqct2izojNrp7T3weNpcFyZM4nRDb4D5Dd9-HJWYzSkmWu6d-TcZSfIg97RiwOEY6gRniJrjKxAjS9MYHP1PIATIyHS8QUb8WOYSq8Urhpud1LpD7Ce-KOOmnwuVnuxtjBvH7eCIvYFXs51pj4GcDzOd8CwtG99P/s860/dsports-2022.png",Dsports
-
+http://38.187.7.252:8000/play/a03d/index.m3u
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://assets.football-logos.cc/logos/england/700x700/english-premier-league.ee1e9b08.png",PREMIER LEAGUE
