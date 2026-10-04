@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ESPN 2" group-title="DEPORTES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png",Espn 2
-
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Fox%2B_2026.svg/revision/latest/scale-to-width-down/300?cb=20260207005308",Fox+
+http://gazytv.vip:8880//live/patricia2025cas/gkst7NBDxRRe08vz/2118659.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_SGcpQWXrN4_DYAa7JgRCY3gl3DyNfWAWw&s",Espn 3
 
