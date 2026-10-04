@@ -148,7 +148,7 @@ http://190.61.42.218:9000/play/a04d/index.m3u8
 #EXTINF:-1 group-title="MUSICALES" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/484/radio-la-kalle.dc00363f.jpg",La kalle 
 http://209.14.98.47:8000/play/a0x8/index.m3u8?hls
 
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es",Cartoonito
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png",Cartoonito
 http://190.61.42.218:9000/play/a05r/index.m3u8
 
 #EXTINF:-1 group-title="CINEMA" tvg-logo=,Multipremier
