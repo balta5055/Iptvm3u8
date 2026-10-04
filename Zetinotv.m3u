@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG22fpJYKKowCljmtSShtXT2kaE7pJ5lNQtUGwQIa8&s",Fox+
-http://gazytv.vip:8880//live/patricia2025cas/gkst7NBDxRRe08vz/2118659.m3u8
+
 
 #EXTINF:-1 tvg-name="ESPN 3" group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_SGcpQWXrN4_DYAa7JgRCY3gl3DyNfWAWw&s",Espn 3
 
@@ -28,6 +27,9 @@ http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://bloximages.newyork1.vip.townnews.com/insideradio.com/content/tncms/assets/v3/editorial/f/6c/f6c79c2a-4ffb-11e7-b6c1-e74276765bfe/593f7cce0f11f.image.jpg",Fox Centroamérica 
 http://190.61.114.186:8000/play/a04d/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG22fpJYKKowCljmtSShtXT2kaE7pJ5lNQtUGwQIa8&s",Fox+
+http://gazytv.vip:8880//live/patricia2025cas/gkst7NBDxRRe08vz/2118659.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zmpjy41624030194.png",Tyc Sports 
 http://190.61.42.218:9000/play/a047/index.m3u8
@@ -224,10 +226,10 @@ http://planettvweb.com:8091/movie/Pablo653/FPad2549d/149785.mkv
 http://planettvweb.com:8091/movie/Pablo653/FPad2549d/149404.mkv
 
 #EXTINF:-1 group-title="🎬 PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGYzNTVmY2YtZTFiNC00ZmVmLWJkODQtY2RlYWE3M2I4NmJlXkEyXkFqcGc@._V1_.jpg",Auxilio 2023
-http://planettvweb.com:8091/movie/Pablo653/FPad2549d/147502.mp4
+
 
 #EXTINF:-1 group-title="🎬 PELÍCULAS" tvg-logo="https://image.tmdb.org/t/p/original/y8fAm9x3ngmSFMYYO5j6SgDy8tO.jpg",Dos locos con Suerte 
-http://planettvweb.com:8091/movie/Pablo653/FPad2549d/146722.mp4
+
 
 #EXTINF:-1 group-title="🎬 PELÍCULAS" tvg-logo="https://i.pinimg.com/474x/6c/43/48/6c434831458b71a290897eb588b191bf.jpg",Godzilla 
 http://planettvweb.com:8091/movie/Pablo653/FPad2549d/123313.mkv
@@ -267,7 +269,7 @@ http://planettvweb.com:8091/movie/Pablo653/FPad2549d/125868.mkv
 http://planettvweb.com:8091/movie/Pablo653/FPad2549d/125836.mkv
 
 #EXTINF:-1 group-title="🎬 PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/I/71dY93guxhL.jpg",13 exorcismos 
-http://planettvweb.com:8091/movie/Pablo653/FPad2549d/124805.mkv
+
 
 #EXTINF:-1 group-title="🎬 PELÍCULAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cApRXj6meulAQMYQrhjfVvZEItl.jpg",El silbido del mal
 http://planettvweb.com:8091/movie/Pablo653/FPad2549d/147501.mp4
