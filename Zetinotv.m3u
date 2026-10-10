@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-name="ESPN DEPORTES" group-title="DEPORTES" tvg-logo="https://a.espncdn.com/i/espn/espn_logos/espndeportes_white.png",Espn Deportes
-https://khala.futlivehd.com/espndeportes/tracks-v1a1/mono.m3u8?ip=190.87.169.161&token=019e366a46fc26203f3a8b597889af33d1ef20e1-7c-1791635856-1791581856
+
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo=https://i.pinimg.com/736x/06/8f/e4/068fe4ec6df8e57eb5e7934b915c4aa0.jpg,Disney+
 
@@ -69,10 +69,10 @@ http://38.187.7.252:8000/play/a03d/index.m3u
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://aloudsports.com/assets/aloudlogofinal-Cn8tbBGq.png",Aloud Sports
-https://stream.mux.com/7sRAlazHEWBx100BYmm6OpnNpYsMk4cRaEofNZgRtKQc.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://aloudsports.com/assets/aloudlogofinal-Cn8tbBGq.png",Aloud Sports
-https://stream.mux.com/P7502I01u6qXIHktAOAFN00yGy6Ek00MpVDbEz1rhkj00M500.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-premium4090.logowik.com.webp",Tnt Sports Premium 
 http://209.14.98.47:8000/play/a0x5/index.m3u8?hls
